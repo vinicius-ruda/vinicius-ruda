@@ -1,8 +1,8 @@
 # Sobre mim
 - 👀 Eu sou @ruda e @vinicius
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Nosso e-mail de contato é vinicius.gehlen.rodrigues@escola.pr.gov.br
+- Sei todas as linguagens
+- 📫 Sou especialista em Javascript e scratch
 
 <!---
 vinicius-ruda/vinicius-ruda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
